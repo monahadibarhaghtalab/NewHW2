@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NewHW2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="handle">My Handle ! </string>
+	<string name="content">Huraaa! :) </string>
+	<string name="activity">Main Activity</string>
+</resources>
